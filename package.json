@@ -1,6 +1,5 @@
 {
-  "homepage": "http://sankeerth10.github.io/myPortfolio",
-  "name": "portfolio",
+  "homepage": "http://sankeerth10.github.io",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
