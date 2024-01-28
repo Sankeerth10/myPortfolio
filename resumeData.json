@@ -1,14 +1,15 @@
 {
   "main": {
     "name": "Sai Sankeerth Koduri",
-    "description": "I'm a Computer Science graduate from Concordia University with over 2.5 years of experience. I've worked as a Software Developer at Honeywell Technology Solutions and interned at CloudOps Inc. and MTX Group. My expertise includes building diverse applications, from small business websites to dynamic and interactive web applications. I am passionate about crafting robust and user-friendly solutions that deliver exceptional user experiences",
+    "description": "Computer Science graduate from Concordia University with over 2.5 years of experience. I've worked as a Software Developer at Honeywell Technology Solutions and interned at CloudOps Inc. and MTX Group. My expertise includes building diverse applications, from small business websites to dynamic and interactive web applications. I am passionate about crafting robust and user-friendly solutions that deliver exceptional user experiences",
     "image": "Sankeerth.jpg",
     "bio": "Hello, I'm Sankeerth, a dedicated Software Developer on a mission to make a positive impact in the corporate world through technology. Currently based in Canada, I hail from India, where I cultivated my passion for technology and innovation. I am also proud to hold the AWS Certified Solutions Architect-Associate certification, showcasing my commitment to excellence in cloud solutions.",
     "contactmessage": "Get in touch for further details",
     "email": "sankeerth.koduri10@outlook.com",
     "phone": "+1 (514) 943-2369",
     "address": {
-      "country": "Canada"
+      "city": "Montreal",
+      "state": "Quebec"
     },
     "resumedownload": "https://drive.google.com/file/d/1PdH9CQrgpb9aFMCYrqCv_O5ArEMaM7CJ/view",
     "social": [
