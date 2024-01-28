@@ -1,16 +1,14 @@
 {
   "main": {
     "name": "Sai Sankeerth Koduri",
-    "occupation": "Computer Science graduate at Concordia University and an Intern at CloudOps Inc.",
-    "description": "I am a Software Developer with two years of experience, specializing in building a wide range of applications, from small business websites to dynamic and interactive web applications. My passion lies in crafting robust and user-friendly solutions that deliver exceptional user experiences.",
+    "description": "I'm a Computer Science graduate from Concordia University with over 2.5 years of experience. I've worked as a Software Developer at Honeywell Technology Solutions and interned at CloudOps Inc. and MTX Group. My expertise includes building diverse applications, from small business websites to dynamic and interactive web applications. I am passionate about crafting robust and user-friendly solutions that deliver exceptional user experiences",
     "image": "Sankeerth.jpg",
-    "bio": "I am Sai Sankeerth Koduri, an experienced and enthusiastic programmer eager to expand my knowledge and explore new and fascinating domains. I possess proficiency in a wide range of programming languages including Java, Python, C#, Node.js, and React, as well as database technologies.",
+    "bio": "Hello, I'm Sankeerth, a dedicated Software Developer on a mission to make a positive impact in the corporate world through technology. Currently based in Canada, I hail from India, where I cultivated my passion for technology and innovation. I am also proud to hold the AWS Certified Solutions Architect-Associate certification, showcasing my commitment to excellence in cloud solutions.",
     "contactmessage": "Get in touch for further details",
-    "email": "saisankeerthkoduri@mail.concordia.ca",
+    "email": "sankeerth.koduri10@outlook.com",
     "phone": "+1 (514) 943-2369",
     "address": {
-      "city": "Montreal",
-      "state": "Quebec"
+      "country": "Canada"
     },
     "resumedownload": "https://drive.google.com/file/d/1PdH9CQrgpb9aFMCYrqCv_O5ArEMaM7CJ/view",
     "social": [
@@ -32,7 +30,7 @@
       {
         "school": "Concordia University, Montreal",
         "degree": "Master's in Applied Computer Science",
-        "graduated": "December 2023(Expected)",
+        "graduated": "December 2023",
         "description": "Pursuing a Master's degree in Applied Computer Science provided me with a much more comprehensive education in the underlying theories, concepts, and scientific principles behind complex programming. It was during this academic journey that I discovered my true passion for scalable application programming, specifically in the fields of web development."
       },
       {
@@ -46,7 +44,7 @@
       {
         "company": "CloudOps Inc.",
         "title": "Cloud Developer Intern",
-        "years": "August 2023 - Present",
+        "years": "August 2023 - December 2023",
         "description": "Honed my ability to deliver sophisticated and seamless solutions, mastering every layer of application development. My journey has instilled in me a profound understanding of robust backend structures, intuitive frontend design, meticulous testing protocols, and dependable deployment strategies, enabling the execution of each project with precision and creative flair"
       },
       {
@@ -64,43 +62,25 @@
     ],
     "skills": [
       {
-        "name": "Java"
+        "name": "• Languages: Java8+, Python, C, C++, C#, JavaScript/ES6, NodeJS, React, Vue.js,"
       },
       {
-        "name": "Python"
+        "name": "• Frameworks: NestJS, Play, Spring, ExpressJS"
       },
       {
-        "name": "C++"
+        "name": "• Databases: MySQL, PostgreSQL, InfluxDB, Elasticsearch, Redis, MongoDB, Dremio."
       },
       {
-        "name": "C#"
+        "name": "• Visualization tools: Tableau, Grafana, Kibana."
       },
       {
-        "name": "Node JS"
+        "name": "• Testing Tools: Spock, Junit, Mockito, Jest, React testing library."
       },
       {
-        "name": "React JS"
+        "name": "• Methodologies & Deployment: Agile, CI/CD, Git, Docker, Kubernetes"
       },
       {
-        "name": "Vue.JS"
-      },
-      {
-        "name": "Database Technologies"
-      },
-      {
-        "name": "Tableau"
-      },
-      {
-        "name": "PHP"
-      },
-      {
-        "name": "HTML5"
-      },
-      {
-        "name": "JavaScript"
-      },
-      {
-        "name": "CSS"
+        "name": "• Cloud Technologies: AWS Certified Associate Solution Architect (SAA-C03), Azure. GCP"
       }
     ]
   },
