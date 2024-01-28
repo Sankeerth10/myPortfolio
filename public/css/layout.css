@@ -231,7 +231,7 @@ ul#nav li.current a {
 }
 #about p {
     line-height: 30px;
-    color: #7A7A7A;
+    color: #ffffff;
 }
 #about .profile-pic {
     position: relative;
@@ -549,13 +549,15 @@ ul#nav li.current a {
     padding: 18px
 }
 .portfolio-item .portfolio-item-meta h5 {
-    font: 14px / 21px 'opensans-bold', sans-serif;
-    color: #fff;
+    font: 18px / 21px 'opensans-bold', sans-serif;
+    color: #000000;
+    font-weight: bold;
 }
 .portfolio-item .portfolio-item-meta p {
-    font: 12px / 18px 'opensans-light', sans-serif;
-    color: #c6c7c7;
+    font: 16px / 18px 'opensans-light', sans-serif;
+    color: #000000;
     margin-bottom: 0;
+    font-weight: bold;
 }
 
 /* on hover */
@@ -813,7 +815,6 @@ call-to-action .button {
 /* Hide the slides before the JS is loaded. Avoids image jumping */
 .flexslider .slides > li {
     display: none;
-    -webkit-backface-visibility: hidden;
 }
 /* Suggested container for slide animation setups. Can replace this with your own */
 .flex-container {
@@ -858,7 +859,6 @@ call-to-action .button {
     margin: 0 6px;
     display: inline-block;
     zoom: 1;
-    *display: inline;
 }
 .flex-control-paging li a {
     width: 12px;
@@ -951,7 +951,6 @@ call-to-action .button {
     margin: 12px 0;
     color: #EBEEEE;
     display: inline-block;
-    float: left;
     width: 26%;
 }
 #contact input,
