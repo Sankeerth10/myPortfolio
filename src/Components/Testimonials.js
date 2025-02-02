@@ -9,6 +9,7 @@ class Testimonials extends Component {
             <blockquote>
                <p>{testimonials.text}</p>
                <cite>{testimonials.user}</cite>
+               <p class="user">{testimonials.user_designation}</p>
             </blockquote>
          </li>
       })

@@ -1,16 +1,16 @@
 {
   "main": {
-    "name": "Sai Sankeerth Koduri",
-    "description": "A Computer Science graduate from Concordia University with over 2.5 years of experience. I've worked as a Software Developer at Honeywell Technology Solutions and interned at CloudOps Inc. and MTX Group. My expertise includes building diverse applications, from small business websites to dynamic and interactive web applications. I am passionate about crafting robust and user-friendly solutions that deliver exceptional user experiences",
+    "name": "Sankeerth Koduri",
+    "description": "A Full-Stack Developer with over 3 years of experience designing and building scalable, high-performance applications. I am currently working at Aptum Technologies and have previously worked at Honeywell Technology Solutions, with internships at CloudOps Inc. and MTX Group. My expertise lies in developing SaaS platforms, optimizing cloud integrations, and enhancing enterprise software using technologies like Java, Vue.js, Spring Boot, and AWS. Passionate about crafting efficient and secure solutions that drive business success",
     "image": "Sankeerth.jpg",
-    "bio": "Hello, I'm Sankeerth, a dedicated Software Developer on a mission to make a positive impact in the corporate world through technology. Currently based in Canada, I hail from India, where I cultivated my passion for technology and innovation. I am also proud to hold the AWS Certified Solutions Architect-Associate certification, showcasing my commitment to excellence in cloud solutions.",
+    "bio": "Hello, I'm Sankeerth, a results-oriented Full-Stack Developer specializing in Java, Spring Boot, Vue.js, and cloud technologies like AWS, GCP, and Kubernetes. Based in Canada, originally from India, I thrive in Agile environments, applying TDD, DevOps best practices, and scalable architecture principles. With a strong background in SaaS and enterprise software, I am committed to building robust, user-centric applications. As an AWS Certified Solutions Architect-Associate, I focus on delivering efficient, cloud-native solutions that drive impact.",
     "contactmessage": "Get in touch for further details",
     "email": "sankeerth.koduri10@outlook.com",
     "phone": "+1 (514) 943-2369",
     "address": {
       "country": "Canada"
     },
-    "resumedownload": "https://drive.google.com/file/d/1PdH9CQrgpb9aFMCYrqCv_O5ArEMaM7CJ/view",
+    "resumedownload": "https://drive.google.com/file/d/1e2-z2R-adik80DHSePiy8gODfTAH6VC0/view?usp=sharing",
     "social": [
       {
         "name": "linkedin",
@@ -42,8 +42,14 @@
     ],
     "work": [
       {
+        "company": "Aptum Technologies",
+        "title": "Full-Stack Developer",
+        "years": "March 2024 - Present",
+        "description": "Developing and enhancing a Java Spring Boot and Vue.js SaaS platform, enabling seamless delivery of edge-to-cloud services. Integrating cloud solutions (AWS, Azure, GCP, VMware, Cloudstack), conducting proof of concepts, and optimizing application performance. Implementing Agile methodologies, TDD, and CI/CD to ensure high-quality, secure, and scalable solutions."
+      },
+      {
         "company": "CloudOps Inc.",
-        "title": "Cloud Developer Intern",
+        "title": "Full-Stack Developer Intern",
         "years": "August 2023 - December 2023",
         "description": "Honed my ability to deliver sophisticated and seamless solutions, mastering every layer of application development. My journey has instilled in me a profound understanding of robust backend structures, intuitive frontend design, meticulous testing protocols, and dependable deployment strategies, enabling the execution of each project with precision and creative flair"
       },
@@ -62,25 +68,28 @@
     ],
     "skills": [
       {
-        "name": "• Languages: Java8+, Python, C, C++, C#, JavaScript/ES6, NodeJS, React, Vue.js."
+        "name": "• Programming Languages: Java (8+), Python, C, C++, C#, JavaScript (ES6+), TypeScript."
       },
       {
-        "name": "• Frameworks: NestJS, Play, Spring, ExpressJS."
+        "name": "• Frontend Technologies: React, Vue.js, HTML, CSS, Tailwind."
       },
       {
-        "name": "• Databases: MySQL, PostgreSQL, InfluxDB, Elasticsearch, Redis, MongoDB, Dremio."
+        "name": "• Backend Frameworks: Spring Boot, NestJS, Play Framework, Express.js."
       },
       {
-        "name": "• Visualization tools: Tableau, Grafana, Kibana."
+        "name": "• Databases: MySQL, PostgreSQL, Elasticsearch, Redis, MongoDB, InfluxDB, Dremio."
       },
       {
-        "name": "• Testing Tools: Spock, Junit, Mockito, Jest, React testing library."
+        "name": "• Cloud & DevOps: AWS (Certified Solutions Architect – Associate), Azure, GCP, Docker, Kubernetes, Terraform, Jenkins, CI/CD."
       },
       {
-        "name": "• Methodologies & Deployment: Agile, CI/CD, Git, Docker, Kubernetes."
+        "name": "• Testing & Quality Assurance: JUnit, Mockito, Spock, Jest, React Testing Library, SonarQube."
       },
       {
-        "name": "• Cloud Technologies: AWS Certified Associate Solution Architect (SAA-C03), Azure, GCP."
+        "name": "• Monitoring & Visualization: Grafana, Kibana, Tableau."
+      },
+      {
+        "name": "• Development Methodologies: Agile (Scrum, Kanban), TDD, Pair Programming, Git."
       }
     ]
   },
@@ -103,12 +112,6 @@
         "category": "Technologies Used : React, Express, NodeJS, Dash.js",
         "image": "Video.png",
         "url": "https://github.com/Sankeerth10/Web-Based-Video-Capture-and-Playback-Application"
-      },
-      {
-        "title": "React Portfolio",
-        "category": "Built with React",
-        "image": "React.png",
-        "url": "https://github.com/Sankeerth10/sankeerth10.github.io"
       }
     ]
   },
@@ -116,7 +119,8 @@
     "testimonials": [
       {
         "text": "I have had the pleasure of collaborating with Sankeerth on multiple occasions, and I can confidently say that working with him has been a delightful experience. Sankeerth is a highly motivated individual who consistently demonstrates a positive attitude towards his work.One of Sankeerth's standout qualities is his excellent communication skills. He excels at articulating his ideas and actively listens to others, fostering effective collaboration within the team. Whether it's discussing project requirements or troubleshooting technical issues, Sankeerth ensures that everyone is on the same page, creating a harmonious work environment.",
-        "user": "Anirudh Parlapalli - Senior Software Engineer at Honeywell Technology Solutions"
+        "user": "Anirudh Parlapalli",
+        "user_designation": "Senior Software Engineer, Honeywell Technology Solutions"
       }
     ]
   }

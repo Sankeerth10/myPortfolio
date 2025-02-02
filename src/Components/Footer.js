@@ -17,10 +17,6 @@ class Footer extends Component {
               {networks}
             </ul>
 
-            {/* <ul>
-              <li>Modified with love by the Clever Programmer team ♥️</li>
-            </ul> */}
-
             <ul className="copyright">
               <li>&copy; Made by Sankeerth</li>
               {/* <li>Design by <a title="Styleshout" href="http://www.styleshout.com/">Styleshout</a></li> */}
